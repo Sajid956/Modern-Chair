@@ -362,7 +362,8 @@ label:hover{
 
 @media (max-width: 991px) {
     .container{
-        margin: 420px auto;
+        margin: 0 auto;
+        margin-top: 420px;
         text-align: center;
         max-width: 370px;
     }
